@@ -1,6 +1,7 @@
 <h1 align="center">Hi 👋, I'm Doha Mohamed Ragab</h1>
 <h3 align="center">Frontend developer (Angular)</h3>
-<img alt="coding" width="140px"  src="https://user-images.githubusercontent.com/79616830/196190695-0dd700f3-5ac5-4f09-b751-ecf91880fb47.png">
+<p align="center"><img alt="coding" width="30%"  src="https://user-images.githubusercontent.com/79616830/196190695-0dd700f3-5ac5-4f09-b751-ecf91880fb47.png">
+</p>
 
 - 🔭 I’m currently working on **Front-End projects: Angular**
 
